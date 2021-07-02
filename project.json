@@ -1,0 +1,7 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "game_flappyBird",
+  "id": "bb2f3711-9a9e-4ec3-a319-a09dd233298d",
+  "version": "2.1.2"
+}
